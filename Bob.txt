@@ -1,2 +1,2 @@
 Hi! I'm Bob. I'm new here.
-asd eat jump remote
+asd eat jump local remote
